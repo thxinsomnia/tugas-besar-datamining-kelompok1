@@ -6,18 +6,23 @@ Repository ini berisi analisis dataset tren wisata yang dibuat untuk memenuhi tu
             : Muh Dany Ma'ruf A       (714220025)
             
   Deskripsi Kasus
+  
     Menganalisis Tren Destinasi Wisata Yang Ada Di Pulau Bali
     
   Sumber Dataset
+  
     Data Pariwisata Pemerintah Daerah Bali
 
   Langkah Preprocessing
+  
     Akuisisi Data -> Pembersihan Data -> Transformasi Data -> Seleksi Fitur -> Pembagian Data
     
   Algoritma yang Digunakan
+  
     Linear Regresi
 
   Evaluasi & Hasil
+  
     Evaluasi Regresi untuk Total Wisnus
     R² Score     : 0.94
     MAE          : 801874.88
@@ -31,4 +36,5 @@ Repository ini berisi analisis dataset tren wisata yang dibuat untuk memenuhi tu
 
 
   Cara Menjalankan (run notebook atau script)
+  
     Untuk menjalankan, cukup jalankan file Run.sh yang ada pada repository
